@@ -1,3 +1,19 @@
+# Practice to use react to build a photo search website, you can search all kind of photo by typing the words in the search bar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
