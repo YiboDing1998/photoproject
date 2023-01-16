@@ -1,4 +1,15 @@
-# Practice to use react to build a photo search website, you can search all kind of photo by typing the words in the search bar.
+# Practice to use react to build a photo search website
+
+
+
+
+![image](https://user-images.githubusercontent.com/118865652/212590292-78e807d9-197c-4086-8483-e50cf6a3fe96.png)
+
+
+
+
+
+It shows 15  most popular picturess of the dat on the homepage, then you can search all kind of photo by typing the words in the search bar. I used the Pexels API and all the copyright of photo are owned by Pexels website.
 
 
 
@@ -15,9 +26,7 @@
 
 
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
