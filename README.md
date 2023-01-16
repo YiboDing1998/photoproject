@@ -10,7 +10,8 @@
 
 
 
-It shows 15  most popular picturess of the dat on the homepage, then you can search all kind of photo by typing the words in the search bar. I used the Pexels API and all the copyright of photo are owned by Pexels website.
+It shows 15 most popular pictures of the date on the homepage first, then you can search all kind of photo by typing the words in the search bar. 
+I used the Pexels API, so all the copyright of photo are owned by Pexels website.
 
 
 
